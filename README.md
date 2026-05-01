@@ -1,12 +1,9 @@
 # Makerspace Playbook
 
 ## Welcome...
-
-to a community of people who have a passion for making things, and who want to share that with others by making with others by setting up a Makerspace. This playbook will help you establish a wonderful new resource in your school, neighborhood, or wider local community. It shares the knowledge and experience from the Makerspace team as well as from those who have already started Makerspaces.
-
-We know that the thought of getting a Makerspace started can be daunting, whether it’s finding a facility, engaging members or students, recruiting mentors, dealing with liability, etc. We want your Makerspace to succeed, to expand the Maker community and grow the Maker movement, to share the Maker mindset and DIY mentality, and to engage and stimulate your neighborhood, school, town or region. We wrote this playbook for Makerspace advocates like you—teachers, parents, Makers, etc.— to make it easier to launch a space and get a program up and running.
-
-We like to say that if you can THINK it, you can MAKE it. So let’s make your Makerspace!
+A Makerspace is born from a simple but powerful idea: people who love making things are better together. When neighbors, students, and strangers gather around a shared passion for making, they don't just build projects — they build new ways of seeing and connecting with one another.
+This playbook is your guide to making that happen — whether in a school, neighborhood, or local hub — drawing on experience from founders who've started from square one. We know it can feel overwhelming: finding a space, recruiting mentors, engaging stakeholders, and navigating liability. This playbook cuts through the complexity so you — teachers, parents, and Makers — can focus on what matters: launching a space where diverse ideas flourish and your community grows the Maker movement together.
+We like to say that if you can THINK it, you can MAKE it. So let's make your Makerspace!
 
 ### Contributing
 
@@ -24,7 +21,7 @@ If would like to contribute comments via email, please address them to [info@mak
 
 </div>
 
-This playbook was adapted from a pdf distributed in 2013 by Maker Media under an Attribution-Non-Commercial-ShareAlike Creative Commons license (CC BY-NC-SA.)
+This playbook was revised in 2026 from and adapted from a pdf distributed in 2013 by Maker Media under an Attribution-Non-Commercial-ShareAlike Creative Commons license (CC BY-NC-SA.)
 
 ### Table of Contents
 
