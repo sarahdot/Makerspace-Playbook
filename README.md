@@ -6,7 +6,7 @@ to a community of people who have a passion for making things, and who want to s
 
 We know that the thought of getting a Makerspace started can be daunting, whether it’s finding a facility, engaging members or students, recruiting mentors, dealing with liability, etc. We want your Makerspace to succeed, to expand the Maker community and grow the Maker movement, to share the Maker mindset and DIY mentality, and to engage and stimulate your neighborhood, school, town or region. We wrote this playbook for Makerspace advocates like you—teachers, parents, Makers, etc.— to make it easier to launch a space and get a program up and running.
 
-We like to say that if you can imagine it, you can make it. So let’s make your Makerspace!
+We like to say that if you can THINK it, you can MAKE it. So let’s make your Makerspace!
 
 ### Contributing
 
