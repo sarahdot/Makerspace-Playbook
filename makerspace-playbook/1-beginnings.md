@@ -4,9 +4,9 @@ description: What we’re doing and why; origins of the Maker movement
 
 # 1 Beginnings
 
-Makerspaces come in all shapes and sizes, but they all share a common purpose: bringing together tools, projects, mentors, and expertise to enable making and learning. A collection of tools alone doesn't define the space — the community and creativity it unlocks does.
-These are learning environments rich with possibility, where newcomers and veterans connect to work on real, personally meaningful projects, guided by mentors and powered by both new technologies and traditional tools.
-Our goal is to help people everywhere create these spaces, find what they need, and build programs that thrive. We know that equipment is only part of the equation — adequate staffing and expertise are often the greater challenge. Stuff is not enough. 
+Makerspaces come in all shapes and sizes and each may look different, but they all share a common throughline: bringing together tools, projects, mentors, and expertise to enable communities of making and learning. 
+These are learning environments rich with possibility, where newcomers and veterans connect to work on real, personally meaningful projects, guided by mentors and enriched with both new technologies and traditional mediums.
+Our goal is to help people everywhere create these spaces, find what they need, and build programs that will thrive. We know from experience that equipment is only part of the equation — adequate staffing and expertise are often the greater challenge. Stuff is not enough. 
 
 That's why our team is tackling five key areas to make establishing a space easier for you, all accessible at makerspace.com as they become available.
 
