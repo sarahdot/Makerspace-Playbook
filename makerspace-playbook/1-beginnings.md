@@ -4,23 +4,24 @@ description: What we’re doing and why; origins of the Maker movement
 
 # 1 Beginnings
 
-Makerspaces come in all shapes and sizes and each may look different, but they all share a common throughline: bringing together tools, projects, mentors, and expertise to enable communities of making and learning. 
-These are learning environments rich with possibility, where newcomers and veterans connect to work on real, personally meaningful projects, guided by mentors and enriched with both new technologies and traditional mediums.
-Our goal is to help people everywhere create these spaces, find what they need, and build programs that will thrive. We know from experience that equipment is only part of the equation — adequate staffing and expertise are often the greater challenge. Stuff is not enough. 
+Makerspaces come in all shapes and sizes and each one may look different, but they all share a common throughline: bringing together tools, projects, mentors, and expertise to enable communities of making and learning. Makerspaces are welcoming environments where people of all skill levels — from curious newcomers to seasoned experts — come together around shared tools and technologies. By bridging traditional mediums with emerging technologies, these spaces break down barriers to creativity and hands-on learning, empowering makers to explore, experiment, and develop projects that are personally meaningful. But a great makerspace is more than its equipment; it thrives through community, mentorship, and the expertise that brings it all to life.
 
-That's why our team is tackling five key areas to make establishing a space easier for you, all accessible at makerspace.com as they become available.
+That's why our team is tackling five key areas to help you in establishing a makerspace within your community. 
 
-1. _**Network**_. Tap into an open, collaborative network of educators and makers worldwide — sharing insights, best practices, and ideas across spaces. Connect locally with makers in your region and the community partners who support them.
-2. _**Project Library**_. Our flexible, modular projects introduce skills and allow new makers to choose projects that reflect their own interests, ability, and available equipment. These projects make it easy to get started and get better, and they’re backed up by a "facilitator needs to know" guide to make the project work with a group.
+1. _**Network**_. Tap into an open, collaborative network of educators and makers worldwide — sharing insights, best practices, and ideas across spaces. We will share some ideas on how to connect with makers in your region and the community partners who support them.
+2. _**Projects**_. Our flexible, modular project ideas introduce skills and allow new makers to choose projects that reflect their own interests, ability, and available equipment. These projects make it easy to get started and get better, and they’re backed up by a "facilitator needs to know" guide to make the project work with a group.
 3. _**Learning Lab**_. Maker Media and the greater Maker community have already generated a large body of content to bring new makers up to speed on making. We provide better ways for learners to discover and access relevant content.
 4. _**Training and Support**_. How do you run a class in making? Engage students in projects? Create the right learning environment? Mix disciplines? We nurture a vibrant community of practice among Maker-educators with online workshops & hangouts and in-person professional development. These introduce new ideas and projects and provide ongoing feedback and support.
 5. _**Tools (both hardware and software)**_. Our pre- packaged kits reduce the barrier of creating a space. We’ve designed a basic “Makerspace in a Box” kit with the standard set of tools needed to complete skill-builder projects like simple chairs, soldering, soft circuitry, etc. Advanced kits would add 3D printers and other optional expansion modules.
 
-We describe elements of some of these five areas of our work in this Playbook. We encourage you to get involved with our efforts by visiting us online at **makerspace.com**.
+We describe elements of some of these five areas of our work in this Playbook. We encourage you to share your own experiences and provide feedback by emailing us at: 
 
 **The Maker Movement**
 
-The Maker Movement traces its roots to the late 1990s where the thriving culture of global "hackerspaces" inspired the first community-oriented makerspaces; a place to share tools and knowledge. Dale Dougherty launched MAKE Magazine in 2005 and Maker Faire in 2006, bringing hands-on creativity into the mainstream and sparking a global movement. By 2011, the term "makerspace" had taken on a life of its own — spreading far beyond its origins and evolving into something uniquely shaped by each community that creates one. Today, a makerspace can be many things, but at its heart it remains what it has always been: an inclusive community hub, where tools and knowledge are meant to be shared. We hope you will see this ethos reflected in your Makerspace. 
+The Maker Movement traces its roots to the late 1990s where the thriving culture of global "hackerspaces" inspired the first community-oriented makerspaces; a place to share tools and knowledge. Dale Dougherty launched MAKE Magazine in 2005 and Maker Faire in 2006, bringing hands-on creativity into the mainstream and sparking a global movement. By 2011, the term "makerspace" had taken on a life of its own — spreading far beyond its origins and evolving into something uniquely shaped by each community that creates one.
+
+This spirit of openness also found expression beyond the workshop floor. Creative Commons and makerspaces both grew from the same open-source ethos — the belief that knowledge and creativity flourish when freely shared and built upon together. Makers naturally adopted Creative Commons licensing as a way to share their designs and ideas with the same collaborative spirit that defines their spaces.
+Today, a makerspace can be many things, but at its heart it remains what it has always been: an inclusive community hub, where tools and knowledge are meant to be shared. We hope you will see this ethos reflected in your Makerspace.
 
 What makes a Maker?
 
@@ -28,7 +29,7 @@ What makes a Maker?
 * Makers follow curiosity, seeking out hands-on, DIY experiences as a way to learn new skills and explore new possibilities.
 * Makers celebrate the process as much as the product — embracing the rough edges and messiness of creation, and finding delight in the passion and ingenuity that drives one another's work.
 * Makers challenge barriers in technology and celebrate its human side. They are inclusive and generous in sharing knowledge and skills, supporting each other as the technological landscape shifts and evolves.
-* Makers are driven by passion, not profit — and while some go on to start businesses, the spirit of the movement lives in the making itself, not the marketplace. 
+* Makers are generally driven by passion, not profit — and while some go on to start businesses, the spirit of the movement lives in the making itself, not the marketplace. 
 
 While Makerspaces often feature 3D printers, laser cutters, and other digital fabrication tools, they are not solely defined by technology. Instead, technology is woven into a broader creative toolkit — sitting alongside woodworking, textiles, electronics, art, and more. Faster prototyping, easier parts sourcing, and online distribution have opened new doors for makers, while interconnected communities — both online and local — continue to bring together people who share common goals and a passion for making across disciplines.
 
