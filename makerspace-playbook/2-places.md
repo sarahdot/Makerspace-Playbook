@@ -4,14 +4,14 @@ description: Making a space more conducive to a community that makes together
 
 # 2 Places
 
-Making can happen anywhere — a kitchen table, a garage, a school hallway, a community center. What matters most isn't the space itself, but what happens inside it. A makerspace is where people come together to build, experiment, and learn from each other.
-Makerspaces share DNA with vocational education, hackerspaces, and FabLabs, but they're distinct from all three. Unlike traditional shop class — which was too often treated as a track for struggling students — makerspaces engage everyone. Teachers and program leaders consistently report the same surprise: the kids flagged as disengaged or difficult are often the most alive in a makerspace. That says something important about what kids are trying to tell us. When students get to create something that means something to them, the dynamic shifts entirely.
+Making can happen anywhere — a kitchen table, a garage, a school hallway, a community center. What matters most isn't the space itself, but what happens inside it. Makerspaces share DNA with vocational education, hackerspaces, and FabLabs, but they're distinct from all three. Unlike traditional shop class — which was too often treated as a track for struggling students — makerspaces engage everyone.
 Unlike hackerspaces, which tend to serve adult hobbyists, makerspaces center learning and are designed to be welcoming to young people. And unlike FabLabs, which often prescribe a specific toolkit, makerspaces embrace a wide range of tools, materials, and project types — because the goal is exploration, not equipment.
 A makerspace doesn't require a dedicated room or a large budget. A single multipurpose space can serve a physics class in the morning, a robotics club in the afternoon, and a community group in the evening. The space belongs to whoever is making in it. What it needs most isn't the latest technology — it's an openness to process, experimentation, and the kind of learning that doesn't show up on a test score.
 
 **The Multipurpose Space**
 
-A school or community center could have a Makerspace that serves as a resource room used by different classes and in different contexts. That is, multiple teachers and multiple classes could use the space: a physics class might use the space for a unit, an afterschool robotics team might build there. It’s not necessary to dedicate a Makerspace to just one particular class on making.
+Schools or community centers often have resource rooms used by different classes and in different contexts. That is, multiple teachers and multiple classes that use the space: a physics class might use the space for a unit, an afterschool robotics team might build there. 
+A makerspace doesn't need to belong to a single class or program. When a physics class, a robotics team, an art elective, and a community group all move through the same space, ideas cross disciplines in ways a single-subject classroom rarely allows. Students see connections between what they're building and what they're learning elsewhere. Teachers borrow each other's approaches. Making becomes a shared language — and the space itself becomes a model for the kind of collaborative, interdisciplinary thinking we want students to develop.
 
 We imagine a variety of uses for a Makerspace:
 
@@ -56,7 +56,6 @@ If you are not creating a Makerspace in the context of a school campus, there ar
 
 **Designing Creative Environments**
 
-Designing Creative Environments
 A makerspace should feel like a place where ideas are always in motion. As you design the space, aim to balance two things that might seem at odds: encouraging collaboration and preserving room for focused, independent work. Large shared surfaces invite group projects and spontaneous conversation; quieter corners give individuals space to tinker until they're ready to share. Flexible, reconfigurable layouts help — what works for one group or project may not work for the next.
 
 **Hangout Areas** Designate a comfortable corner for gathering, reflecting, and informal conversation — away from noisy or heavily trafficked areas. Some of the best cross-project ideas happen when makers take a break near someone working on something completely different.
