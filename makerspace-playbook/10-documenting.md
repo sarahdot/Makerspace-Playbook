@@ -10,20 +10,20 @@ In a maker ecosystem, documenting process and projects isn't just record-keeping
 The story of a project is as important as the project itself. Encourage members to choose documentation tools that feel natural to them and to start early.
 
 _**Notebooks**_
-Notebooks are the simplest starting point. A maker's notebook is a place to sketch concepts, jot notes, and paste in inspiration as it comes. Low-tech, affordable, and entirely personal — members can bring them to exhibition events to walk visitors through their process.
+are the simplest starting point. A maker's notebook is a place to sketch concepts, jot notes, and paste in inspiration as it comes. Low-tech, affordable, and entirely personal — members can bring them to exhibition events to walk visitors through their process.
 Project Binders take that raw material and organize it. Three-ring binders are flexible enough to hold component spec sheets, printed photos, napkin sketches, and anything else collected along the way. Date everything — an accurate chronological record becomes more interesting and valuable over time.
 
 _**Posters**_
-Posters offer a more formal way to present finished work, modeled on the kind of displays scientists and engineers use at professional conferences. They're a great post-event reflection tool, prompting members to articulate their vision, process, and conclusions.
+offer a more formal way to present finished work, modeled on the kind of displays scientists and engineers use at professional conferences. They're a great post-event reflection tool, prompting members to articulate their vision, process, and conclusions.
 
 _**Project Binders.**_
-Project binders take raw notes and sketches and organize them into a coherent record. Flexible enough to hold anything — spec sheets, clippings, napkin sketches — they capture the full range of a project's development. Date everything you add; a chronological record becomes more revealing and valuable over time.
+take raw notes and sketches and organize them into a coherent record. Flexible enough to hold anything — spec sheets, clippings, napkin sketches — they capture the full range of a project's development. Date everything you add; a chronological record becomes more revealing and valuable over time.
 
 _**Photos and Video**_
-Photos and Video are among the most powerful ways to capture making in action. Candid shots of the team at work, time-lapses of a project taking shape, and a short video trailer can communicate what a finished object alone never could. A shared photo library — through a platform like Flickr — gives your makerspace a living visual archive.
+are among the most powerful ways to capture making in action. Candid shots of the team at work, time-lapses of a project taking shape, and a short video trailer can communicate what a finished object alone never could. A shared photo library — through a platform like Flickr — gives your makerspace a living visual archive.
 
 _**Blogs and Social Media**_
-Blogs and Social Media extend documentation into community. When members share their process publicly, they contribute to a broader culture of teaching and learning — and often find an audience they didn't expect. Writing up a project for others to replicate deepens the maker's own understanding, and opens the door for collaboration beyond your walls. 
+can extend documentation into community. When members share their process publicly, they contribute to a broader culture of teaching and learning — and often find an audience they didn't expect. Writing up a project for others to replicate deepens the maker's own understanding, and opens the door for collaboration beyond your walls. 
 
 Regardless of the format, these questions can help frame the story of any project:
 
