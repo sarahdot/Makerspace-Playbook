@@ -26,17 +26,22 @@ _**Choosing a Location**_
 Don't let the perfect space stop you from getting started. Makerspaces can be as temporary as a lunchroom after school or as permanent as a purpose-built workshop. What matters most is finding a space where making can happen — and then making it work.
 Consider repurposing something already available. Some of the best makerspaces began as underused rooms waiting to be transformed:
 
-**The Computer Lab** Rather than refreshing aging desktops, consider clearing out most of the stations, adding a few laptops or tablets, and investing the remaining budget in fabrication tools. The shift from consumption to creation can happen in the same room.
+**The Computer Lab** 
+Rather than refreshing aging desktops, consider clearing out most of the stations, adding a few laptops or tablets, and investing the remaining budget in fabrication tools. The shift from consumption to creation can happen in the same room.
 
-**The Library** Libraries already function as shared community resources, and many have begun integrating maker tools and creative technology. A school library is a natural home for a makerspace mindset.
+**The Library** 
+Libraries already function as shared community resources, and many have begun integrating maker tools and creative technology. A school library is a natural home for a makerspace mindset.
 
 **Partner Classrooms** Teaming up across departments — science with art, engineering with vocational ed — creates space-sharing arrangements that mirror the maker spirit. Unexpected results tend to emerge when teachers from different disciplines work side by side.
 
-**Art Rooms or Home Economics Classrooms** These rooms often come equipped with sinks, large surfaces, and a history of hands-on work. 
+**Art Rooms or Home Economics Classrooms** 
+These rooms often come equipped with sinks, large surfaces, and a history of hands-on work. 
 
-**Stagecraft and Auditorium Backstages** High ceilings, open floor space, and existing tools make backstage areas surprisingly well-suited for building and testing larger projects.
+**Stagecraft and Auditorium Backstages** 
+High ceilings, open floor space, and existing tools make backstage areas surprisingly well-suited for building and testing larger projects.
 
-**Outdoors** A garden, a courtyard, or an outdoor structure can extend the makerspace beyond four walls — connecting making to the natural world and giving students room to build, grow, and experiment at a larger scale.
+**Outdoors** 
+A garden, a courtyard, or an outdoor structure can extend the makerspace beyond four walls — connecting making to the natural world and giving students room to build, grow, and experiment at a larger scale.
 
 BEFORE: Verrado Middle School’s Computer Lab
 
@@ -58,17 +63,23 @@ If you are not creating a Makerspace in the context of a school campus, there ar
 
 A makerspace should feel like a place where ideas are always in motion. As you design the space, aim to balance two things that might seem at odds: encouraging collaboration and preserving room for focused, independent work. Large shared surfaces invite group projects and spontaneous conversation; quieter corners give individuals space to tinker until they're ready to share. Flexible, reconfigurable layouts help — what works for one group or project may not work for the next.
 
-**Hangout Areas** Designate a comfortable corner for gathering, reflecting, and informal conversation — away from noisy or heavily trafficked areas. Some of the best cross-project ideas happen when makers take a break near someone working on something completely different.
+**Hangout Areas** 
+Designate a comfortable corner for gathering, reflecting, and informal conversation — away from noisy or heavily trafficked areas. Some of the best cross-project ideas happen when makers take a break near someone working on something completely different.
 
-**Diverse Materials and Tools** Stock what you have to span the full range of making — arts, craft, engineering, music, science, technology, food, and green design — so that no single discipline dominates and unexpected combinations stay possible.
+**Diverse Materials and Tools** 
+Stock what you have to span the full range of making — arts, craft, engineering, music, science, technology, food, and green design — so that no single discipline dominates and unexpected combinations stay possible.
 
-**Clear Organization** A consistent labeling system and visible storage make it easy for members to find what they need and discover what they didn't know they were looking for. Clear or mesh containers let people scan materials at a glance, whether they're searching for something specific or just letting their imagination wander.
+**Clear Organization** 
+A consistent labeling system and visible storage make it easy for members to find what they need and discover what they didn't know they were looking for. Clear or mesh containers let people scan materials at a glance, whether they're searching for something specific or just letting their imagination wander.
 
-**Rummage Box** Keep a designated spot for hard-to-categorize items — interesting clippings, salvaged parts, leftover materials from past projects. What doesn't fit anywhere else often sparks the next idea.
+**Rummage Box** 
+Keep a designated spot for hard-to-categorize items — interesting clippings, salvaged parts, leftover materials from past projects. What doesn't fit anywhere else often sparks the next idea.
 
-**Displays** Use wall space and shelving to showcase past projects and works in progress. Seeing what others have built — and how they built it — seeds inspiration and signals that process matters as much as finished product.
+**Displays** 
+Use wall space and shelving to showcase past projects and works in progress. Seeing what others have built — and how they built it — seeds inspiration and signals that process matters as much as finished product.
 
-**Thoughtful Flow** Be practical about how different practices coexist. A soldering station and a sewing machine don't belong next to a table saw. Carve out zones that keep incompatible activities from interfering with each other, while keeping the space connected enough that makers can see and learn from what's happening around them.
+**Thoughtful Flow** 
+Be practical about how different practices coexist. A soldering station and a sewing machine don't belong next to a table saw. Carve out zones that keep incompatible activities from interfering with each other, while keeping the space connected enough that makers can see and learn from what's happening around them.
 
 _**Resources**_
 Make Space: How to Set the Stage for Creative Collaboration — Scott Doorley and Scott Witthoft, Hasso Plattner Institute of Design at Stanford University. A practical guide to designing environments that support creative collaboration, drawn from years of building and rebuilding the d.school's own spaces.https://dschool.stanford.edu/shop/make-space
