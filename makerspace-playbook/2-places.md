@@ -94,6 +94,7 @@ Before hosting any programming, establish a clear protocol for injuries and emer
 For more on safety practices, working with local authorities, and keeping equipment in compliance, see Chapter 4.
 
 **Logistical Considerations**
+
 Start with what's available, then work from there. When budgeting, account for both one-time costs — remodeling, equipment — and ongoing expenses like electricity, heating, and permits.
 Make sure the space can support what you plan to do in it: adequate electrical capacity, proper ventilation, storage for materials and in-progress projects, and compliance with local zoning ordinances. Easy access to cleaning supplies and first aid should be built in from the start.
 A few practical requirements to keep in mind as you evaluate a space:
@@ -108,10 +109,12 @@ Some equipment requires 220V or three-phase power
 Larger spaces benefit from organizing work into zones — woodworking, metalworking, electronics, craft, and computer areas each grouped together. This isolates dust and noise, keeps safety equipment where it's needed, and naturally brings together people with similar interests, which encourages skill sharing.
 
 **Furnishing the Space**
+
 Many makerspace essentials — workbenches, shelving, whiteboards — can be built or assembled for far less than buying new. Make Space is full of ideas for building your own furniture and adapting off-the-shelf products into functional creative environments.
 Before spending anything, look locally. Community listservs, Nextdoor, Facebook Marketplace, and Craigslist are reliable sources for free or reduced-cost furniture donations. Schools, offices, and businesses regularly offload exactly the kind of sturdy, functional pieces a makerspace needs.
 
 **Further Reading**
+
 Make Space — Doorley & Witthoft, d.school
 Nation of Makers-Resources https://www.nationofmakers.us/resource-library
 2011 Ultimate Workshop and Tool Guide — Make: Magazine special issue
